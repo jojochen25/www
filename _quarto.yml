@@ -1,0 +1,32 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Jodie Chen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jodie-chen-0a9996228/
+      - icon: github
+        href: https://github.com/jojochen25
+      - icon: file-pdf
+        href: assets/Jodie_Chen_resume.pdf
+
+format:
+  html:
+    #theme: spacelab # text looks a litle different
+    theme: 
+      light: flatly
+      dark: darkly
+        # - custom.scss
+    css: styles.css
+    toc: true
+# 
+# $navbar-h1: #eaaa00;
+

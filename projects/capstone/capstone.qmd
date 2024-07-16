@@ -1,0 +1,17 @@
+---
+title: "Capstone"
+description: "Capstone project on modeling drug overdose rate for SURE 2024 at CMU"
+date: "July 2024"
+about: 
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/Dcampoverdlema/Drug-overdose-and-alcohol-related-deaths
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1v2OW6YpUpDO90-ZATxZ0-vkdAitEp-05z_ZakYx_Xtk/edit?usp=sharing
+    - text: Poster
+    - text: Report
+---

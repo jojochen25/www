@@ -1,0 +1,18 @@
+---
+title: "Jodie Chen"
+about: 
+  template: jolla
+  image: assets/Jodie_Chen_headshot.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jodiechen25@g.ucla.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/jojochen25
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jodie-chen-0a9996228/
+---
+
+Welcome to my website! I am a fourth year undergraduate at UCLA, majoring in Statistics and minoring in data science engineering. I'm interested in healthcare analytics.
